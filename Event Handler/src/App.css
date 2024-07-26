@@ -1,0 +1,26 @@
+div button{
+    margin-left: 46%;
+    margin-top: 5%;
+    height: 40px;
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+.post {
+    border: 1px solid #ccc;
+    padding: 16px;
+    margin: 16px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .post h1 {
+    font-size: 24px;
+    margin-bottom: 8px;
+  }
+  
+  .post h3 {
+    font-size: 18px;
+    color: #555;
+  }
+  
